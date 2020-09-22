@@ -1,2 +1,2 @@
 # First-attempt-for-SCP2399
-用户SCP2399的第一次建造repository尝试
+    本页面是Github用户SCP-2399在课程《生物信息学实践》中创建的第一个Github repository的README.md文件
